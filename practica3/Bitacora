@@ -1,0 +1,6 @@
+Resumen de comandos Básicos para Git
+
+1. Clonar
+    git clone(url_del_repositorio)
+2. Agragar cambios.
+    git add
